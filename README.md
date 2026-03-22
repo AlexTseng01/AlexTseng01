@@ -22,4 +22,4 @@ Welcome to my GitHub. I’m a CS student focused on building software and full-s
 # Contact Me
 
 You can reach me via my email at alextseng1216@gmail.com
-[Contact Me](mailto:alextseng1216@gmail.com)
+(mailto:alextseng1216@gmail.com)

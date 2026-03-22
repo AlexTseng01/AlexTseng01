@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, my name is Alex Tseng.
+Welcome to my GitHub. I’m a CS student focused on building software and full-stack applications. I enjoy creating practical projects that solve modern problems and learning to use new technologies.
+---
 
 <!--
 **AlexTseng01/AlexTseng01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

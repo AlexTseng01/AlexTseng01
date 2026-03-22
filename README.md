@@ -33,6 +33,6 @@ Welcome to my GitHub. I’m a CS student focused on building software and full-s
 
 I built a data augmentation tool to speed up dataset preparation and used it to train a YOLOv5 model for detecting empty parking spaces.
 
-<img src="https://raw.githubusercontent.com/AlexTseng01/augmentify/main/augmentation%20examples/ex2.png" width="50%" style="transform: rotate(10deg);"/>
+<img src="https://raw.githubusercontent.com/AlexTseng01/augmentify/main/augmentation%20examples/ex2.png" width="50%" style="transform: rotate(90deg);"/>
 
 

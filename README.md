@@ -33,4 +33,4 @@ Welcome to my GitHub. I’m a CS student focused on building software and full-s
 
 I built Augmentify to speed up data augmentation and used it to train a YOLOv5 model for recognizing empty parking spaces.
 
-<img src="https://raw.githubusercontent.com/AlexTseng01/augmentify/main/augmentation%20examples/ex2.png" width="400" />
+<img src="https://raw.githubusercontent.com/AlexTseng01/augmentify/main/augmentation%20examples/ex2.png" width="50%" />

@@ -4,7 +4,7 @@ Welcome to my GitHub. I’m a CS student focused on building software and full-s
 
 ---
 
-# Languages
+# Languages & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />

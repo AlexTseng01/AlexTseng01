@@ -22,4 +22,8 @@ Welcome to my GitHub. I’m a CS student focused on building software and full-s
 # Contact Me
 
 You can reach me via my email at:
-[Contact Me](mailto:alextseng1216@gmail.com)
+<p>
+  <a href="mailto:alextseng1216@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge" />
+  </a>
+</p>

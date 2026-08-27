@@ -1,6 +1,7 @@
 ## Hi, my name is Alex Tseng.
 
 Welcome to my GitHub. I am a senior Computer Science student at UMBC focused on building software and full-stack applications. I enjoy creating practical projects that solve real-world problems and exploring new technologies.
+
 ---
 
 # Languages & Tools
